@@ -1,0 +1,5 @@
+version: "3.8"
+services:
+  shell:
+    image: debian
+    working_dir: /workspace
